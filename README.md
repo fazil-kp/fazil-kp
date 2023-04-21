@@ -2,7 +2,7 @@
 <p align="center"><img src="./assets/developer.png" height="250"></p>
 <h1 align="center">Hi <img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35"  />, I'm MOHAMMED FAZIL KP</h1>
 
-## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> About Me.
+## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> About Me.../
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/coding.gif"/> &nbsp;&nbsp;
 - <img src="./assets/telescope.gif" width="30"/> I’m currently working on college project<br>

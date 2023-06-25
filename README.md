@@ -5,7 +5,8 @@
 ## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> About Me
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/coding.gif"/> &nbsp;&nbsp;
--  👀 I’m looking to collaborate on Open Source Project<br>
+-  💞️ I’m interested in Full Stack Development
+-  👀 I’m looking to collaborate on Open Source Projects<br>
 - <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:mfazilkp7@gmail.com">reach me</a><br>
 <br><br>
 

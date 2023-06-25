@@ -5,12 +5,8 @@
 ## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> About Me
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/coding.gif"/> &nbsp;&nbsp;
-- <img src="./assets/telescope.gif" width="30"/> I’m currently working on college project<br>
 - <img src="./assets/collaborate.gif" width="30"/> I’m looking to collaborate on Open Source Project<br>
-- <img src="./assets/seedling.gif" width="30"/> I’m currently learning flutter<br>
-- <img src="./assets/ask_me.gif" width="20"/> Ask me about flutter, python, php .<br>
 - <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:mfazilkp7@gmail.com">reach me</a><br>
-- <img src="./assets/thunder.gif" height="20"/> I like Coding
 <br><br>
 
 ## <img src="./assets/Eyes.png" width="25"/> Views and <img src="./assets/Blue%20Heart.png" width="25"/> Followers

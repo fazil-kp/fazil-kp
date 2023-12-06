@@ -13,6 +13,13 @@
 <br><br>
 
 
+
+## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> Projects
+- [LifeMate](https://mohammed-fazil-kp.github.io/LifeMate_depo/) - Blood Donation App <br><br><br><br>
+
+
+
+
 ## <img src="./assets/Eyes.png" width="25"/> Views and <img src="./assets/Blue%20Heart.png" width="25"/> Followers
 <br>
 <a href="https://github.com/MOHAMMED-FAZIL-KP">
@@ -22,8 +29,7 @@
 <br><br>
 
 
-## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> Projects
-- [LifeMate](https://mohammed-fazil-kp.github.io/LifeMate_depo/) - Blood Donation App <br><br><br><br>
+
 
 
 ##  <img src="./assets/badge.gif" width="40"> Badges

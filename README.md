@@ -11,6 +11,8 @@
 - <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:mfazilkp7@gmail.com">reach me</a><br>
 <br><br>
 
+[Portfolio]([https://www.shajin.in](https://mohammed-fazil-kp.github.io/fazil.com/))
+
 ## <img src="./assets/Eyes.png" width="25"/> Views and <img src="./assets/Blue%20Heart.png" width="25"/> Followers
 <br>
 <a href="https://github.com/MOHAMMED-FAZIL-KP">

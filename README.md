@@ -22,7 +22,7 @@
 <br><br>
 
 
-### Projects
+## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> Projects
 - [LifeMate](https://mohammed-fazil-kp.github.io/LifeMate_depo/) - Blood Donation App
 
 

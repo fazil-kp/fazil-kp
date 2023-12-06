@@ -10,7 +10,7 @@
 -  👀 I’m looking to collaborate on Open Source Projects<br>
 - <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:mfazilkp7@gmail.com">reach me</a><br>
 <br><br>
-- <img src="./assets/mail.gif" width="30"/> How to <a href="[mailto:mfazilkp7@gmail.com](https://mohammed-fazil-kp.github.io/fazil.com/)">reach me</a><br>
+- <img src="./assets/mail.gif" width="30"/> How to <a href="https://mohammed-fazil-kp.github.io/fazil.com/">reach me</a><br>
 <br><br>
 
 [Portfolio]([https://www.shajin.in](https://mohammed-fazil-kp.github.io/fazil.com/))

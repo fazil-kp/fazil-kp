@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Fazil <img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35"  /> </h1>
 
-## <img src="./assets/coding.gif" width="35"/> About Me
+## <img src="./assets/collaborate.gif" width="35"/> About Me
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/coding.gif"/> &nbsp;&nbsp;
 -  💞️ I’m interested in Full Stack Development

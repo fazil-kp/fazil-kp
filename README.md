@@ -84,12 +84,7 @@
 ---
 <br>
 
-## <img src="./assets/Dove.png" width="30"> Latest Tweet
 
-
-<a href="https://twitter.com/FazilKp15"><img src="https://gtce.itsvg.in/api?username=FazilKp15&theme=discord_old_blurple&icon=user&border=false"/></a>
-
-<br/><br/>
 
 ### <img src="./assets/Writing%20Hand%20Light%20Skin%20Tone.png" width=25> Random Dev Quote
 
@@ -97,12 +92,7 @@
 
 <br>
 
-### <img src="./assets/Face%20with%20Tears%20of%20Joy.png" width=25> Random Dev Meme
-<br>
 
-<p align="center"><img src="https://dynamic-badges.maxalpha.repl.co/meme" width=400 height=300/></p>
-
-<br>
 
 ---
 

@@ -82,7 +82,7 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=MOHAMMED-FAZIL-KP&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMED-FAZIL-KP&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOHAMMED-FAZIL-KP&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
-[![Fazil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MOHAMMED-FAZIL-KP&theme=tokyo-night)](https://github.com/MOHAMMED-FAZIL-KP?tab=repositories)
+<!-- [![Fazil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MOHAMMED-FAZIL-KP&theme=tokyo-night)](https://github.com/MOHAMMED-FAZIL-KP?tab=repositories) -->
 <br><br>
 
 ## <img src="./assets/trophies.gif" width="30"/> GitHub Trophies

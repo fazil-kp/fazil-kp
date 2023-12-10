@@ -58,7 +58,7 @@
 <a href = "https://twitter.com/FazilKp15"><img width="48" height="48" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/></a>
 <!-- Facebook -->
 <a href = "https://www.facebook.com/fazilkp.mohammed/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
-<br><br>
+<br>
 
 
 ##  <img src="assets/Rocket.png" width="30"> Languages and Tools

@@ -42,7 +42,7 @@
 ## <img src="./assets/spinning-globe-animated.gif" width="25"> Socials
 <br>
 
-<a href = "https://twitter.com/FazilKp15"><img width="64" height="64" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/></a>
+<a href = "https://twitter.com/FazilKp15"><img width="48" height="48" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/></a>
 <a href = "https://www.linkedin.com/in/fazil-kp-061459235/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
 <a href = "https://www.instagram.com/fazil__.__ "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://wa.me/8281088823 "><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>

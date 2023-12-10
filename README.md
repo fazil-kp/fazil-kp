@@ -50,7 +50,7 @@
 <a href = "https://www.youtube.com/channel/UCVqYXdZZAwP2dkEDPHXVgSA"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
 <a href = "https://twitter.com/FazilKp15"><img width="48" height="48" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/></a>
 <br><br>
-<a href = "https://www.facebook.com/fazilkp.mohammed/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
+<a href = "https://www.facebook.com/fazilkp.mohammed/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a></p>
 <br><br>
 
 

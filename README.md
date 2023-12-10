@@ -1,4 +1,3 @@
-
 <p align="center"><img src="./assets/developer.png" height="250"></p>
 
 <h1 align="center">Hi, I'm Fazil <img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35"  /> </h1>
@@ -18,18 +17,11 @@
 - [LifeMate](https://mohammed-fazil-kp.github.io/LifeMate_depo/) - Blood Donation App <br><br><br><br>
 
 
-
-
 ## <img src="./assets/Eyes.png" width="25"/> Views and <img src="./assets/Blue%20Heart.png" width="25"/> Followers
 <br>
-<a href="https://github.com/MOHAMMED-FAZIL-KP">
-    <img src="https://komarev.com/ghpvc/?username=MOHAMMED-FAZIL-KP">
-</a>
+<a href="https://github.com/MOHAMMED-FAZIL-KP"><img src="https://komarev.com/ghpvc/?username=MOHAMMED-FAZIL-KP"></a>
 <a href="https://github.com/MOHAMMED-FAZIL-KP?tab=followers"><img src="https://img.shields.io/github/followers/MOHAMMED-FAZIL-KP?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
-
-
-
 
 
 ##  <img src="./assets/badge.gif" width="40"> Badges
@@ -82,7 +74,7 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=MOHAMMED-FAZIL-KP&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMED-FAZIL-KP&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOHAMMED-FAZIL-KP&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
-<!-- [![Fazil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MOHAMMED-FAZIL-KP&theme=tokyo-night)](https://github.com/MOHAMMED-FAZIL-KP?tab=repositories) -->
+
 <br><br>
 
 ## <img src="./assets/trophies.gif" width="30"/> GitHub Trophies

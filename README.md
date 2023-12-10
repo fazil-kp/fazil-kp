@@ -45,6 +45,7 @@
 <a href = "https://twitter.com/FazilKp15"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.linkedin.com/in/fazil-kp-061459235/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
 <a href = "https://www.instagram.com/fazil__.__ "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.hackerrank.com/profile/mfazilkp7 "><img src="assets/Rocket.png"/></a>
 <br><br>
 
 

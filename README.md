@@ -66,7 +66,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px"/> </a>
 </p>
 
-<br><br> i want some width in these icons
+<br><br>
 
 ## <img src="./assets/graph-animation.gif" width="30"/> GitHub Stats:
 <br>

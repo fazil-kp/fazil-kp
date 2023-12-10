@@ -42,21 +42,13 @@
 ## <img src="./assets/spinning-globe-animated.gif" width="25"> Socials
 <br>
 
-<!-- LinkedIn -->
+
 <a href = "https://www.linkedin.com/in/fazil-kp-061459235/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
-<!-- HackerRank -->
 <a href = "https://www.hackerrank.com/profile/mfazilkp7"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo"/></a>
-<!-- Instagram -->
 <a href = "https://www.instagram.com/fazil__.__ "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-<!-- WhatsApp -->
 <a href = "https://wa.me/8281088823 "><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
-<!-- YouTube -->
 <a href = "https://www.youtube.com/channel/UCVqYXdZZAwP2dkEDPHXVgSA"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
-
-<!-- TwitterX -->
 <a href = "https://twitter.com/FazilKp15"><img width="48" height="48" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/></a>
-
 <br><br>
 
 

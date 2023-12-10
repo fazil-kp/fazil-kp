@@ -41,6 +41,8 @@
 
 ## <img src="./assets/spinning-globe-animated.gif" width="25"> Socials
 <br>
+
+<p align="left"> 
 <a href = "https://www.linkedin.com/in/fazil-kp-061459235/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
 <a href = "https://www.hackerrank.com/profile/mfazilkp7"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo"/></a>
 <a href = "https://www.instagram.com/fazil__.__ "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>

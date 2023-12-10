@@ -39,7 +39,7 @@
 [![An image of @mfazilkp7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mfazilkp7)](https://holopin.io/@mfazilkp7)
 
 
-## <img src="./assets/spinning-globe-animated.gif" width="25"> Socials
+## <img src="./assets/spinning-globe-animated.gif" width="50"> Socials
 <br>
 
 

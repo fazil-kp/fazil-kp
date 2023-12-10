@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="300" src="./assets/coding.gif"/> &nbsp;&nbsp;
 -  💞️ I’m interested in Full Stack Development
 -  👀 I’m looking to collaborate on Open Source Projects<br>
-- <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:mfazilkp7@gmail.com">reach me</a><br>
+- 📳 <a href="mailto:mfazilkp7@gmail.com">How to reach me</a><br>
 - 💻 <a href="https://mohammed-fazil-kp.github.io/fazil.in/">Portfolio</a><br>
 <br><br>
 

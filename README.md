@@ -1,10 +1,10 @@
-<p align="center"><img src="./assets/developer.png" height="250"></p>
+<p align="center"><img src="./assets/coding.gif" height="250"></p>
 
 <h1 align="center">Hi, I'm Fazil <img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35"  /> </h1>
 
 ## <img src="./assets/collaborate.gif" width="35"/> About Me
 <br/>&nbsp;&nbsp;
-<img align="right" alt="coding" width="300" src="./assets/coding.gif"/> &nbsp;&nbsp;
+<img align="right" alt="coding" width="300" src="./assets/developer.png"/> &nbsp;&nbsp;
 - 💓 I’m interested in Full Stack Development
 - 👀 I’m looking to collaborate on Open Source Projects<br>
 - 📩 <a href="mailto:mfazilkp7@gmail.com">How to reach me</a><br>

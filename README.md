@@ -21,14 +21,6 @@
 - [Musica](https://github.com/fazil-kp/Musica) - Music Player App
  <br><br><br><br>
 
-
-## <img src="./assets/Eyes.png" width="25"/> Views and <img src="./assets/Blue%20Heart.png" width="25"/> Followers
-<br>
-<a href="https://github.com/fazil-kp"><img src="https://komarev.com/ghpvc/?username=fazil-kp"></a>
-<a href="https://github.com/fazil-kp?tab=followers"><img src="https://img.shields.io/github/followers/fazil-kp?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
-
-
 ##  <img src="./assets/badge.gif" width="40"> Badges
 <br>
 

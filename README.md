@@ -8,7 +8,7 @@
 - 💓 I’m interested in Full Stack Development
 - 👀 I’m looking to collaborate on Open Source Projects<br>
 - 📩 <a href="mailto:mfazilkp7@gmail.com">How to reach me</a><br>
-- 💻 <a href="https://fazil-kp.github.io/fazil.in/">Portfolio</a><br>
+- 💻 <a href="https://www.fazilkp.in/">fazilkp.in</a><br>
 <br><br>
 
 

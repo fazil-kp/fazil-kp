@@ -1,117 +1,88 @@
-<p align="center"><img src="./assets/coding.gif" height="250"></p>
+# Hi, I'm Fazil 👋
 
-<h1 align="center">Hi, I'm Fazil <img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35"  /> </h1>
+### Full Stack Developer | Open Source Enthusiast
 
-## <img src="./assets/collaborate.gif" width="35"/> About Me
-<br/>&nbsp;&nbsp;
-<img align="right" alt="coding" width="300" src="./assets/developer.png"/> &nbsp;&nbsp;
-- 💓 I’m interested in Full Stack Development
-- 👀 I’m looking to collaborate on Open Source Projects<br>
-- 📩 <a href="mailto:mfazilkp7@gmail.com">How to reach me</a><br>
-- 💻 <a href="https://www.fazilkp.in/">fazilkp.in</a><br>
-<br><br>
+I'm passionate about building meaningful applications and contributing to open source projects. Currently focused on Flutter development and creating solutions that make a difference.
 
+---
 
+## 🚀 Featured Projects
 
-## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> Projects
-- [LifeMate](https://fazil-kp.github.io/LifeMate_depo/) - Blood Donation App 
-- [Edeft](https://github.com/fazil-kp/edeft-App) - Education Institution App
-- [NSS EMEA](https://github.com/fazil-kp/NSS-EMEA-App) - App for NSS Unit of EMEA College of Arts and Science Kondotty
-- [SkyWaltz](https://github.com/fazil-kp/SkyWaltz) - Weather App
-- [Musica](https://github.com/fazil-kp/Musica) - Music Player App
- <br><br><br><br>
+- **[LifeMate](https://fazil-kp.github.io/LifeMate_depo/)** - Blood donation platform connecting donors with those in need
+- **[Edeft](https://github.com/fazil-kp/edeft-App)** - Comprehensive education institution management app
+- **[NSS EMEA](https://github.com/fazil-kp/NSS-EMEA-App)** - NSS Unit app for EMEA College
+- **[SkyWaltz](https://github.com/fazil-kp/SkyWaltz)** - Beautiful weather forecast application
+- **[Musica](https://github.com/fazil-kp/Musica)** - Modern music player experience
 
-##  <img src="./assets/badge.gif" width="40"> Badges
-<br>
+---
 
+## 💻 Tech Stack
 
-[![An image of @mfazilkp7's Holopin badges](https://holopin.me/mfazilkp7)](https://holopin.io/@mfazilkp7)
+**Mobile & Frontend**  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+**Backend & Database**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## <img src="./assets/spinning-globe-animated.gif" width="25"> Socials
-<br>
+**Other**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="left"> 
-<a href = "https://www.linkedin.com/in/fazil-kp-061459235/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
-<a href = "https://www.hackerrank.com/profile/mfazilkp7"><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo"/></a>
-<a href = "https://www.instagram.com/fazil__.__ "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://wa.me/8281088823 "><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/></a>
-<a href = "https://www.youtube.com/channel/UCVqYXdZZAwP2dkEDPHXVgSA"><img width="48" height="48" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/></a>
-<a href = "https://twitter.com/FazilKp15"><img width="48" height="48" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/></a>
-<a href = "https://www.facebook.com/fazilkp.mohammed/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="facebook-new"/></a>
-<a href = "https://www.buymeacoffee.com/mfazilkp10t"><img width="45" height="45" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo.png" alt="external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-shadow-tal-revivo"/></a></p>
-<br><br>
+---
 
+## 📊 GitHub Stats
 
-##  <img src="assets/Rocket.png" width="30"> Languages and Tools
-<br>
+<div align="center">
+  
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=fazil-kp&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="left"> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="margin-right: 10px"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" style="margin-right: 10px"/> </a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40" style="margin-right: 10px"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="node" width="40" height="40" style="margin-right: 10px"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin-right: 10px"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right: 10px"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin-right: 10px"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px"/> </a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fazil-kp&theme=dark&hide_border=true)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fazil-kp&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+[![](https://github-profile-trophy.vercel.app/?username=fazil-kp&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/fazil-kp)
+
+[![Holopin Badges](https://holopin.me/mfazilkp7)](https://holopin.io/@mfazilkp7)
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.fazilkp.in/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fazil-kp-061459235/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mfazilkp7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/FazilKp15"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://www.instagram.com/fazil__.__"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<br><br>
-
-## <img src="./assets/graph-animation.gif" width="30"/> GitHub Stats:
-<br>
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=fazil-kp&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fazil-kp&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fazil-kp&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) 
-
-<br><br>
-
-## <img src="./assets/trophies.gif" width="30"/> GitHub Trophies
-<br>
-
-![](https://github-profile-trophy.vercel.app/?username=fazil-kp&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-
-<br>
-
----
-<br>
-
-
-
-### <img src="./assets/Writing%20Hand%20Light%20Skin%20Tone.png" width=25> Random Dev Quote
-
->![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br>
-
-
-
 ---
 
-<br>
+<div align="center">
 
-## Loved my work? <img src="assets/Heart on Fire.png" width="30">
-<br>
+### 💡 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<img src="assets/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/fazil-kp/fazil-kp) <br/>
-<img src="assets/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/fazil-kp)<br/>
-<img src="assets/Hot Beverage.png" width="25"> [Buy me a coffee](https://www.buymeacoffee.com/mfazilkp10t) (Tired of drinking Tea)
+### ☕ Support My Work
+If you like what I do, consider [buying me a coffee](https://www.buymeacoffee.com/mfazilkp10t)!
 
-<br><br><br>
+[![](https://visitcount.itsvg.in/api?id=fazil-kp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Thanks for visiting! &nbsp;<img src="./assets/Partying Face.png" width="25">
+**Thanks for visiting!** ⭐
 
-<br><br><br>
-
----
-
-
+</div>

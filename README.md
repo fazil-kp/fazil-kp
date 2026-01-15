@@ -58,7 +58,7 @@ class Developer {
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="25%" align="center">
 <img src="https://media.licdn.com/dms/image/v2/D560BAQHgx49KJ78-7Q/company-logo_200_200/company-logo_200_200/0/1735580917308/isselo_logo?e=2147483647&v=beta&t=oNf9t7xnEMz4j8WncNTWhDdCVAKvSZ4-tI1gQlXngP0" width="80" height="80" alt="Isselo"/><br/>
 <strong>🏢 Isselo ERP</strong><br/>
 <sub>Enterprise Resource Planning</sub><br/><br/>
@@ -66,7 +66,7 @@ Sales • Inventory • CRM • HR<br/>
 <code>Flutter + Riverpod + Node.js</code><br/>
 <a href="https://isselo.com/">🔗 Visit</a>
 </td>
-<td width="50%" align="center">
+<td width="25%" align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMnmaUQYpeB7-6Jw8MSY5O7Np_tw9YIRblA&s" width="80" height="80" alt="Century Pool"/><br/>
 <strong>🏊 Century Pool</strong><br/>
 <sub>Smart Pool Booking</sub><br/><br/>
@@ -74,9 +74,7 @@ Real-time Slots • Payments<br/>
 <code>Flutter + Provider + MySQL</code><br/>
 <a href="https://apps.apple.com/in/app/century-pool/id6450617623">🔗 App Store</a>
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<td width="25%" align="center">
 <img src="https://cdn.techjockey.com/web/assets/images/techjockey/products/20019_sinca.jpg" width="80" height="80" alt="SincA Leads"/><br/>
 <strong>📊 SincA Leads</strong><br/>
 <sub>Lead Management Platform</sub><br/><br/>
@@ -84,7 +82,7 @@ Analytics • Automation<br/>
 <code>Flutter + Riverpod + Node.js</code><br/>
 <a href="https://sincaleads.com/">🔗 Visit</a>
 </td>
-<td width="50%" align="center">
+<td width="25%" align="center">
 <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/09/e5/b709e5ec-ca6d-989b-63b1-9a7467823dd9/Placeholder.mill/400x400bb-75.webp" width="80" height="80" alt="SincA Restaurant"/><br/>
 <strong>🍽️ SincA Restaurant</strong><br/>
 <sub>Restaurant Management App</sub><br/><br/>
@@ -101,10 +99,34 @@ Orders • Menu • Billing<br/>
 
 <div align="center">
 
-[![smart_pop](https://img.shields.io/badge/smart__pop-02569B?style=flat-square&logo=flutter&logoColor=white)](https://pub.dev/packages/smart_pop)
-[![free_scroll](https://img.shields.io/badge/free__scroll-02569B?style=flat-square&logo=flutter&logoColor=white)](https://pub.dev/packages/free_scroll)
-[![atlas_picker](https://img.shields.io/badge/atlas__picker-02569B?style=flat-square&logo=flutter&logoColor=white)](https://pub.dev/packages/atlas_picker)
-[![smart_accelerometer](https://img.shields.io/badge/smart__accelerometer-02569B?style=flat-square&logo=flutter&logoColor=white)](https://pub.dev/packages/smart_accelerometer)
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://pub.dev/packages/smart_pop">
+<img src="https://img.shields.io/badge/smart__pop-v1.0.0-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="smart_pop"/>
+</a><br/>
+<sub>Intelligent navigation control</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://pub.dev/packages/free_scroll">
+<img src="https://img.shields.io/badge/free__scroll-v1.0.0-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="free_scroll"/>
+</a><br/>
+<sub>Unrestricted scrolling widget</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://pub.dev/packages/atlas_picker">
+<img src="https://img.shields.io/badge/atlas__picker-v1.0.0-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="atlas_picker"/>
+</a><br/>
+<sub>Advanced location picker</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://pub.dev/packages/smart_accelerometer">
+<img src="https://img.shields.io/badge/smart__accelerometer-v1.0.0-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="smart_accelerometer"/>
+</a><br/>
+<sub>Motion detection utility</sub>
+</td>
+</tr>
+</table>
 
 </div>
 

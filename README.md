@@ -15,8 +15,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfazilkp7@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FazilKp15)
 
-![Profile Views](https://komarev.com/ghpvc/?username=fazil-kp&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -27,7 +25,7 @@
 developer:
   name: Mohammed Fazil KP
   role: Senior Flutter Developer
-  location: Tirur, Kerala, India 🇮🇳
+  location: Kolappuram, Kerala, India 🇮🇳
   company: Screl Info Pvt. Ltd.
   education: MCA @ IGNOU
   
@@ -86,14 +84,54 @@ achievements:
 
 ## 💼 **FEATURED PROJECTS**
 
+💼 FEATURED PROJECTS
 <div align="center">
-
-| Project | Description | Impact | Tech Stack |
-|---------|-------------|--------|------------|
-| 🏢 **[Isselo ERP](https://isselo.com/)** | Enterprise Resource Planning with Sales, Inventory, CRM, HR & Accounting | 🚀 **40%** efficiency boost | Flutter · Riverpod · Node.js · MySQL |
-| 🏊 **[Century Pool](https://apps.apple.com/in/app/century-pool/id6450617623)** | Smart pool booking with integrated payments | 📈 **40%** engagement increase | Flutter · Provider · Node.js |
-| 📊 **[SincA Leads](https://sincaleads.com/)** | Advanced lead tracking & management platform | 🎯 **35%** conversion boost | Flutter · Riverpod · Node.js |
-
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.licdn.com/dms/image/v2/D560BAQHgx49KJ78-7Q/company-logo_200_200/company-logo_200_200/0/1735580917308/isselo_logo?e=2147483647&v=beta&t=oNf9t7xnEMz4j8WncNTWhDdCVAKvSZ4-tI1gQlXngP0" width="80" height="80" alt="Isselo Logo"/><br/>
+<h3>🏢 <a href="https://isselo.com/">Isselo ERP</a></h3>
+<p><i>Enterprise Resource Planning Solution</i></p>
+<p>Sales • Inventory • CRM • HR • Accounting</p>
+<br/>
+<b>Impact:</b><br/>
+🚀 40% efficiency boost<br/>
+📱 Cross-platform (Web, Android, iOS, Windows)<br/>
+🔄 Offline-first architecture
+<br/><br/>
+<b>Tech Stack:</b><br/>
+<code>Flutter</code> <code>Riverpod</code> <code>Node.js</code> <code>MySQL</code>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/swimming-pool.png" width="80" height="80" alt="Century Pool"/><br/>
+<h3>🏊 <a href="https://apps.apple.com/in/app/century-pool/id6450617623">Century Pool</a></h3>
+<p><i>Smart Pool Booking Platform</i></p>
+<p>Slot Booking • Payment Integration</p>
+<br/>
+<b>Impact:</b><br/>
+📈 40% engagement increase<br/>
+⏱️ 60% faster reservations<br/>
+💳 Multiple payment gateways
+<br/><br/>
+<b>Tech Stack:</b><br/>
+<code>Flutter</code> <code>Provider</code> <code>Node.js</code> <code>MySQL</code>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/waypoint-map.png" width="80" height="80" alt="SincA Leads"/><br/>
+<h3>📊 <a href="https://sincaleads.com/">SincA Leads</a></h3>
+<p><i>Lead Management Platform</i></p>
+<p>Tracking • Analytics • Automation</p>
+<br/>
+<b>Impact:</b><br/>
+🎯 35% conversion boost<br/>
+📊 Real-time analytics<br/>
+🤖 Automated follow-ups
+<br/><br/>
+<b>Tech Stack:</b><br/>
+<code>Flutter</code> <code>Riverpod</code> <code>Node.js</code> <code>MySQL</code>
+</td>
+</tr>
+</table>
 </div>
 
 ---

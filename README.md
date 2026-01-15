@@ -67,7 +67,7 @@ Sales • Inventory • CRM • HR<br/>
 <a href="https://isselo.com/">🔗 Visit</a>
 </td>
 <td width="25%" align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMnmaUQYpeB7-6Jw8MSY5O7Np_tw9YIRblA&s" width="80" height="80" alt="Century Pool"/><br/>
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/bd/0e/6fbd0ee6-71a9-7ff4-2f8d-00fac74e931a/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/400x400ia-75.webp" width="80" height="80" alt="Century Pool"/><br/>
 <strong>🏊 Century Pool</strong><br/>
 <sub>Smart Pool Booking</sub><br/><br/>
 Real-time Slots • Payments<br/>

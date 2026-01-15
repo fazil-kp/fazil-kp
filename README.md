@@ -6,7 +6,7 @@
   ### Senior Flutter Developer | Full Stack Enthusiast
   
   <p>
-    <a href="https://www.fazilkp.in/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+    <a href="[https://portfolio-web-fazil-kps-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/fazil-kp-061459235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/fazil-kp"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="mailto:mfazilkp7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -41,7 +41,6 @@ class Developer {
 <img align="right" alt="Coding" width="400" src="./assets/developer.png"/>
 
 - 🚀 Senior Flutter Developer at **Screl Info Pvt. Ltd.**
-- 💼 Flutter Developer at **Futura Labs**
 - 🎓 Pursuing **MCA** from IGNOU
 - 📦 Published **4 Flutter packages** on Pub.dev
 - 🌟 Contributed to **Flutter Framework** repository
@@ -90,7 +89,7 @@ Enterprise Resource Planning solution with Sales, Inventory, CRM, HR, Accounting
 - 🔄 Offline-first architecture with auto-sync
 - **Tech:** Flutter, Riverpod, Node.js, MySQL, SQLite
 
-### 🏊 Century Pool - Booking Application
+### 🏊 [Century Pool - Booking Application](https://apps.apple.com/in/app/century-pool/id6450617623)
 User-friendly pool slot booking with integrated payments
 - 📈 Increased user engagement by **40%**
 - ⏱️ Reduced reservation time by **60%**
@@ -103,12 +102,6 @@ Advanced lead tracking and management platform
 - 📊 Real-time analytics dashboard
 - 🤖 Automated follow-up processes
 - **Tech:** Flutter, Riverpod, Node.js, MySQL
-
-### 🩸 [LifeMate - Blood Donation App](https://fazil-kp.github.io/LifeMate_depo/)
-Connect blood donors with recipients seamlessly
-
-### 🌤️ [SkyWaltz - Weather App](https://github.com/fazil-kp/SkyWaltz)
-Beautiful weather forecasting application
 
 ---
 

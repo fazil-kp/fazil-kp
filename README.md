@@ -102,7 +102,7 @@ Orders • Menu • Billing<br/>
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://pub.dev/packages/smart_pop">
+<a href="https://pub.dev/packages/smart_popup">
 <img src="https://img.shields.io/badge/smart__pop-v1.0.0-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="smart_pop"/>
 </a><br/>
 <sub>Intelligent navigation control</sub>
